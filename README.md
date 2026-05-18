@@ -1,13 +1,13 @@
 # README — Diretório de Documentos
 
-## 📁 Visão Geral
+## Visão Geral
 Este diretório reúne documentos profissionais e acadêmicos relacionados à formação, competências e objetivos profissionais de Maria Eduarda Melo, estudante da área de tecnologia com foco em Ciência de Dados, Machine Learning e Desenvolvimento Backend.
 
 Os arquivos presentes foram organizados para apresentação profissional, candidatura a estágios e demonstração de conhecimentos iniciais na área de desenvolvimento de software e análise de dados.
 
 ---
 
-# 📄 Arquivos do Diretório
+# Arquivos do Diretório
 
 ## 1. `Currículo.pdf`
 Documento curricular contendo informações acadêmicas, competências técnicas e comportamentais, experiências acadêmicas e objetivos profissionais.
@@ -55,12 +55,12 @@ Apresentação profissional em formato visual/slides contendo resumo pessoal, ob
 
 ### Conteúdo Detalhado
 
-#### 👩‍💻 Sobre
+#### Sobre
 - Interesse em tecnologia e soluções baseadas em dados
 - Foco em desenvolvimento backend
 - Busca por aprendizado contínuo
 
-#### 🛠️ Competências Técnicas
+#### Competências Técnicas
 - Lógica de programação
 - Java
 - Python
@@ -69,13 +69,13 @@ Apresentação profissional em formato visual/slides contendo resumo pessoal, ob
 - Banco de dados
 - Programação orientada a objetos
 
-#### 📚 Projetos Acadêmicos
+#### Projetos Acadêmicos
 - Exercícios práticos em Java
 - Algoritmos simples
 - Estruturas condicionais e de repetição
 - Correção de erros e testes
 
-#### 🤝 Habilidades Comportamentais
+#### Habilidades Comportamentais
 - Facilidade de aprendizado
 - Organização
 - Trabalho em equipe
@@ -87,7 +87,7 @@ Documento visual para apresentações acadêmicas, networking, entrevistas e pro
 
 ---
 
-# 🧠 Áreas de Interesse Profissional
+# Áreas de Interesse Profissional
 - Desenvolvimento Backend
 - Engenharia de Software
 - Ciência de Dados
@@ -97,7 +97,7 @@ Documento visual para apresentações acadêmicas, networking, entrevistas e pro
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas Citadas
+# Tecnologias e Ferramentas Citadas
 - Java
 - Python
 - SQL
@@ -109,7 +109,7 @@ Documento visual para apresentações acadêmicas, networking, entrevistas e pro
 
 ---
 
-# 🎯 Finalidade do Diretório
+# Finalidade do Diretório
 Este diretório foi criado para:
 - Organização de documentos profissionais
 - Participação em processos seletivos
@@ -119,7 +119,7 @@ Este diretório foi criado para:
 
 ---
 
-# 👩‍💻 Perfil Profissional
+# Perfil Profissional
 Maria Eduarda Melo é estudante em início de formação na área de tecnologia, demonstrando:
 - Interesse contínuo em aprendizado
 - Boa capacidade lógica
@@ -129,12 +129,12 @@ Maria Eduarda Melo é estudante em início de formação na área de tecnologia,
 
 ---
 
-# 📬 Contato
+# Contato
 - Email acadêmico: `mariaeduardamelo@sempreceub.com`
 - Email pessoal: `madudamelo2@gmail.com`
 - Telefone: `(61) 9 9117-6422`
 
 ---
 
-# 📌 Observações
+# Observações
 Os documentos presentes neste diretório possuem caráter acadêmico e profissional, sendo destinados à apresentação pessoal, oportunidades de estágio e desenvolvimento de carreira na área de tecnologia.
